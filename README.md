@@ -1,2 +1,4 @@
 # lgm-barter
-implements Raelifin's barter algorithm from Little Green Men
+implements [Raelifin](http://raelifin.com)'s barter algorithm from [Little Green Men](https://fanfiction.net/s/11867818/1/Little-Green-Men)
+
+Initial implementation: Jupyter notebook with widgets. Requires Python 3, with the 'notebook' and 'ipywidgets' packages.
